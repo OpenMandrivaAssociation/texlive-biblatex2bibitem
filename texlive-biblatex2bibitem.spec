@@ -1,6 +1,6 @@
 Name:		texlive-biblatex2bibitem
-Version:	61648
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Convert BibLaTeX-generated bibliography to bibitems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex2bibitem
