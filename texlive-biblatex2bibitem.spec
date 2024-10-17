@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Convert BibLaTeX-generated bibliography to bibitems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex2bibitem
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex2bibitem
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex2bibitem.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex2bibitem.doc.r%{version}.tar.xz
